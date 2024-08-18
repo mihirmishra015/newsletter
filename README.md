@@ -1,5 +1,3 @@
-
-```markdown
 # Newsletter Subscription App
 
 This is a simple newsletter subscription application built with React for the frontend and Express.js for the backend. It allows users to subscribe to a newsletter using their email address.
@@ -112,5 +110,3 @@ Contributions to this project are welcome. Please fork the repository and submit
 ## License
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
-
-```
